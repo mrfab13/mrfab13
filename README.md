@@ -1,5 +1,6 @@
 ![Hey](https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/1200px-Garfield_the_Cat.svg.png)
 
+[![vaughans's github stats](https://github-readme-stats.vercel.app/api?username=mrfab13&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mrfab13/mrfab13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
