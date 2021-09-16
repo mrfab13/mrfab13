@@ -5,5 +5,5 @@ alot of my work never made it to github because i didnt start using it till seco
 [![vaughans's github stats](https://github-readme-stats.vercel.app/api?username=mrfab13&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-<a href="https://sleep-deficiency-studio.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/mrfab13/mrfab13/main/docs/itch-io.png" width="52vh" height="52vh"> </a>
-<a href="https://www.linkedin.com/in/vaughan-webb/" target="_blank"><img src="https://raw.githubusercontent.com/mrfab13/mrfab13/main/docs/linkedin.png" width="52vh" height="52vh"></a>
+<a href="https://sleep-deficiency-studio.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/henry9836/henry9836/main/docs/itch-io.png" width="52vh" height="52vh"> </a>
+<a href="https://www.linkedin.com/in/vaughan-webb/" target="_blank"><img src="https://raw.githubusercontent.com/henry9836/henry9836/main/docs/linkedin.png" width="52vh" height="52vh"></a>
