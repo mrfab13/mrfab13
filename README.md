@@ -1,5 +1,5 @@
 welcome to my profile :D
-alot of my work never made it to github because i didnt start using it till second year of uni. Also alot of my work are contributions to projects hosted on other peoples githubs that doesnt show here so this only showcases a small fraction of the work i have done.
+Alot of my work are contributions to projects hosted on other peoples githubs that doesnt show here since we did alot of team projects at uni. Im currently working on a indie game but its privated (shhhhhh)
 
 [![my stats](https://github-readme-stats.vercel.app/api?username=mrfab13&theme=synthwave&show_icons=true&custom_title=%20Howdy,%20im%20just%20coding%20away%20😎)](https://github.com/anuraghazra/github-readme-stats)
 
